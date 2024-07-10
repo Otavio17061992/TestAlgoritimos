@@ -1,0 +1,15 @@
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/bin/Debug/net8.0/RomanToInteger
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/bin/Debug/net8.0/RomanToInteger.deps.json
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/bin/Debug/net8.0/RomanToInteger.runtimeconfig.json
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/bin/Debug/net8.0/RomanToInteger.dll
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/bin/Debug/net8.0/RomanToInteger.pdb
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/obj/Debug/net8.0/RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/obj/Debug/net8.0/RomanToInteger.AssemblyInfoInputs.cache
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/obj/Debug/net8.0/RomanToInteger.AssemblyInfo.cs
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/obj/Debug/net8.0/RomanToInteger.csproj.CoreCompileInputs.cache
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/obj/Debug/net8.0/RomanToInteger.sourcelink.json
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/obj/Debug/net8.0/RomanToInteger.dll
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/obj/Debug/net8.0/refint/RomanToInteger.dll
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/obj/Debug/net8.0/RomanToInteger.pdb
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/obj/Debug/net8.0/RomanToInteger.genruntimeconfig.cache
+/workspaces/TestAlgoritimos/RomanToInteger/RomanToInteger/obj/Debug/net8.0/ref/RomanToInteger.dll
